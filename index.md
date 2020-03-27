@@ -6,15 +6,6 @@ Here are my personal notes, which contain many aspects, and I hope they can be h
 
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 122222222222222222222222
-## Header 222222222222222222222222222
-### Header 32222222222222222222222222222222222222222222222
-
-- Bulleted
-- List
 
 1. Numbered
 2. List

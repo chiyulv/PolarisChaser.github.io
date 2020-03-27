@@ -8,7 +8,7 @@ Here are my personal notes, which contain many aspects, and I hope they can be h
 
 
 1. [Computer Software](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Computer%20Software.md)
-2. List
+2. [System Settings](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/System%20Settings.md)
 
 **Bold** and _Italic_ and `Code` text
 

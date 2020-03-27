@@ -3,6 +3,8 @@
 
 # Computer Software
 
+2.Turn <font color=IndianRed>off extract here   **(Context menu)**
+
 
 <font face="黑体">我是黑体字</font>
 

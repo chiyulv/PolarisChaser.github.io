@@ -9,7 +9,7 @@
 
 ## [Bandizip](http://www.bandisoft.com/bandizip/beta/ "Bandizip")
 
-1.Destination folder:  <font color=111111>**D:\Bandizip**</font>  **(Install)**
+1.Destination folder:  <font color=MediumPurple>**D:\Bandizip**</font>  **(Install)**
 
 2.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**extract here**</font>   **(Context menu)**
 

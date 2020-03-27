@@ -3,6 +3,29 @@
 
 # Computer Software
 
+```HTML
+
+
+1.Destination folder:  <font color=MediumPurple>**D:\Bandizip**</font>  **(Install)**
+
+2.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**extract here**</font>   **(Context menu)**
+
+3.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**extract to "Archive-Name" folder**</font>  **(Context menu)**
+
+4.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**extract to another folder…**</font>  **(Context menu)**
+
+5.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**preview archive**</font>  **(Context menu)**
+
+6.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**compress to each "File/FolderName.zip"**</font>  **(Context menu)**
+
+7.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**create an archive(Bandizip)**</font>  **(Context menu)**
+
+8.Theme color: <font color=MediumPurple>**Violet**</font>   **(View)**
+
+9.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**show folder's compressed/original size**</font>  **(View)**
+```
+
+
 ```json
    // code for coloring
 ```
@@ -374,216 +397,4 @@ $\color{#FF3030}{red}$
 
 ## [Dism++](https://www.chuyu.me/zh-Hans/index.html "Dism++")
 
-1.Choose how the Cortana is shown on taskbar:  <font color=MediumPurple>**Hidden**</font>  **(System optimizer/Taskbar settings)**
-
-2.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**hide "Task View" button**</font>  **(System optimizer/Taskbar settings)**
-
-3.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**always show all icons and notifications on the taskbar**</font>  **(System optimizer/Taskbar settings)**
-
-4.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**hide people on task bar**</font>  **(System optimizer/Taskbar settings)**
-
-5.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**taskbar clock did display seconds**</font>  **(System optimizer/Taskbar settings)**
-
-6.Change user account control (UAC) behaviour:  <font color=MediumPurple>**Never notify me**</font>  **(System optimizer/Security settings)**
-
-7.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable smartscreen filters**</font>  **(System optimizer/Security settings)**
-
-8.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable safety warning when opening programs**</font>  **(System optimizer/Security settings)**
-
-9.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable suggestions in start menu**</font>  **(System optimizer/Start & Windows experience)**
-
-10.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable search for associated applications in Windows store**</font>  **(System optimizer/Start & Windows experience)**
-
-11.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable ads from windows store**</font>  **(System optimizer/Start & Windows experience)**
-
-12.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable "Get suggestions when using Windows"**</font>  **(System optimizer/Start & Windows experience)**
-
-13.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable "Highlight newly installed programs"**</font>  **(System optimizer/Start & Windows experience)**
-
-14.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable automatic installation of recommended apps**</font>  **(System optimizer/Start & Windows experience)**
-
-15.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**disable game recorder**</font>  **(System optimizer/Start & Windows experience)**
-
-16.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**open file explorer to this PC**</font>  **(System optimizer/Explorer)**
-
-17.Turn <font color=IndianRed>**on**</font>  <font color=Khaki>**remove arrows on shortcut lcons**</font>  **(System optimizer/Explorer)**
-
-18.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**hide UAC buckler**</font>  **(System optimizer/Explorer)**
-
-19.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**hide NTFS compression blue double arrow icon overlay**</font>  **(System optimizer/Explorer)**
-
-20.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**prevent adding the suffix "shortcut" when you create a shortcut**</font>  **(System optimizer/Explorer)**
-
-21.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**do not display frequently used folders in Quick Access**</font>  **(System optimizer/Explorer)**
-
-22.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**do not display recently used files in Quick Access**</font> **(System optimizer/Explorer)**
-
-23.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**hide help button on language bar**</font>  **(System optimizer/Explorer)**
-
-24.Display recycle bin on the desktop:  <font color=MediumPurple>**Hidden**</font>  **(System optimizer/Desktop management)**
-
-25.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**everything except OneDrive**</font>  **(System optimizer/Icon management)**
-
-26.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**make IME default mode English**</font>  **(System optimizer/Microsoft pinyin IME)**
-
-27.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**allow automatic updates immediate installation**</font>  **(System optimizer/Windows update)**
-
-28.Use the <font color=IndianRed>**disk clean-up**</font> on function  **(Disk clean-up)**
-
-29.Use the <font color=IndianRed>**startup**</font> on function  **(Startup)**
-
-
-
----
-
-## [Maya](http://www.gfxcamp.com/ "Maya")
-
-1.Destination folder:  <font color=MediumPurple>**D:\Maya**</font>  **(Install)**
-
-
-
----
-
-## [Zbrush](http://www.gfxcamp.com/ "Zbrush")
-
-1.Destination folder:  <font color=MediumPurple>**D:\Zbrush**</font>  **(Install)**
-
-
-
----
-
-## [3DMAX](http://www.gfxcamp.com/ "3DMAX")
-
-1.Destination folder:  <font color=MediumPurple>**D:\3DMAX**</font>  **(Install)**
-
-
-
----
-
-## [Houdini](http://www.gfxcamp.com/ "Houdini")
-
-1.Destination folder:  <font color=MediumPurple>**D:\Houdini**</font>  **(Install)**
-
-
-
----
-
-## [Resolve](http://www.gfxcamp.com/ "http://www.gfxcamp.com/")
-
-1.Destination folder:  <font color=MediumPurple>**D:\Resolve**</font>  **(Install)**
-
-
-
----
-
-## [Affinity Photo](http://www.gfxcamp.com/ "Affinity Photo")
-
-1.Destination folder:  <font color=MediumPurple>**D:\Affinity Photo**</font>  **(Install)**
-
-
-
----
-
-## [CG Tool](https://tk.v5cg.com/ "CG Tool")
-
-1.Destination folder:  <font color=MediumPurple>**D:\CG Tool**</font>  **(Install)**
-
-
-
----
-
-## [StartIsBack++](https://zhutix.com/tools/startisback-plus-pojie/ "StartIsBack++")
-
-1.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**use custom start menu coloring**</font>  **(Appearance)**
-
-2.Set color:  <font color=MediumPurple>**Clear**</font>  **(Appearance)**
-
-
-
----
-
-## [HuoChat](https://www.huochaipro.com/  "HuoChat")
-
-1.Destination folder:  <font color=MediumPurple>**D:\HuoChat**</font>  **(Install)**
-
-2.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**run with computer starts**</font>  **(Install)**
-
-3.Group chat mode:  <font color=MediumPurple>**Dark mode**</font>  **(Chat)**
-
-4.Download folder:  <font color=MediumPurple>**D:\Library\Downloads\HuoChat Downloads**</font>  **(Chat)**
-
-5.Set search shortcut key:  **(Internet search)**
-
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**bdmap**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**wx**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**so**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**sogou**</font>
-+ Google:  <font color=MediumPurple>**g**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**gt**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**bing**</font>
-+ SuNing:  <font color=MediumPurple>**sn**</font>
-+ Amazon:  <font color=MediumPurple>**az**</font>
-+ Douban:  <font color=MediumPurple>**db**</font>
-+ Youku:  <font color=MediumPurple>**yk**</font>
-+ iqiyi:  <font color=MediumPurple>**iqy**</font>
-+ GitHub:  <font color=MediumPurple>**git**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**huaban**</font>
-+ Bilibili:  <font color=MediumPurple>**bz**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**123**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**360**</font>
-
-6.Set search shortcut key:  **(Local search)**
-
-| shortcut key |       Contents       |
-| :----------: | :------------------: |
-|      +       | D:\Library\Downloads |
-|      _       | D:\Library\Projects  |
-
-
-
-7.Set app shortcut key:  **(App)**
-
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**app**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**quick star**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**screenshot**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**navigation**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**switch files**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**collect**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**clipboard**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**EMS**</font>
-+ Turn <font color=IndianRed>**off**</font> <font color=Khaki>**stock**</font>
-
-
-
----
-
-## [Internet Download Manager](https://www.internetdownloadmanager.com/download.html "Internet Download Manager")
-
-1.Destination folder:  <font color=MediumPurple>**Default**</font>  **(Install)**
-
-2.Temporary directory:  <font color=MediumPurple>**D:\Library\Downloads\IDM**</font>  **(Save to)**
-
-3.Default download directory for general category:  <font color=MediumPurple>**D:\Library\Downloads\General**</font>  **(Save to)**
-
-4.Turn <font color=IndianRed>**off**</font> <font color=Khaki>**launch internet download manager on startup**</font>  **(General)**
-
-
-
----
-
-## [Smart Defrag 6 PRO](https://www.iobit.com/en/iobitsmartdefrag.php "Smart Defrag 6 PRO")
-
-
-
----
-
-## [Substance Painter/Substance Designer](http://www.gfxcamp.com/ "Substance Painter/Substance Designer")
-
-1.Destination folder:  <font color=MediumPurple>**D:\Substance Painter**</font>  **(Install)**
-
-2.Destination folder:  <font color=MediumPurple>**D:\Substance Designer**</font>  **(Install)**
-
-
-
-
-
+1.Choose 

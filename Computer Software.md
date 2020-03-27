@@ -384,7 +384,7 @@
 
 21.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**do not display frequently used folders in Quick Access**</font>  **(System optimizer/Explorer)**
 
-22.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**do not display recently used files in Quick Access **</font> **(System optimizer/Explorer)**
+22.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**do not display recently used files in Quick Access**</font> **(System optimizer/Explorer)**
 
 23.Turn <font color=IndianRed>**on**</font> <font color=Khaki>**hide help button on language bar**</font>  **(System optimizer/Explorer)**
 

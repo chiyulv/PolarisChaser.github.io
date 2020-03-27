@@ -3,6 +3,8 @@
 
 # Computer Software
 
+<span style="color: green"> Some green text </span>
+
 2.Turn <font color=IndianRed>off extract here   **(Context menu)**
 
 

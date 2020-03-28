@@ -9,6 +9,7 @@ Here are my personal notes, which contain many aspects, and I hope they can be h
 
 1. [Computer Software](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Computer%20Software.md)
 2. [System Settings](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/System%20Settings.md)
+3. [computer-software](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/computer-software.md)
 
 3.$\color{#FF3030}{red}$
 

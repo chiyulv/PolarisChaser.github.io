@@ -1,5 +1,5 @@
 # Computer-software
-![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Taskbar%20settings.png)
+
 ## catalogue
 
 - [Computer-software](#computer-software)

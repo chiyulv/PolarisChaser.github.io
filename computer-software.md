@@ -142,7 +142,7 @@ Set
     ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Security%20settings.png)
 
   + Start & Windows experience
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Start%20%26%20Windows%20experience.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Start%20%26%20Windows%20experience.png)
 
   + Explorer
     ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Explorer1.png)

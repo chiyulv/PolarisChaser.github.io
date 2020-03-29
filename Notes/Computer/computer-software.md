@@ -43,11 +43,11 @@
 
 ## Base 
 
-### Bandizip [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Bandizip
 
 Bandizip is a very efficient decompression software without ads.
 
-URL: http://www.bandisoft.com/bandizip/
+URL: http://www.bandisoft.com/bandizip/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 

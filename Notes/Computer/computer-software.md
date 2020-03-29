@@ -64,11 +64,11 @@ Set
   +  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Theme color: Violet
   +  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on show folder's compressed/original size.
 
-### Everything [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Everything
 
 Everything can find files quickly.
 
-URL: https://www.voidtools.com/zh-cn/
+URL: https://www.voidtools.com/zh-cn/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -77,11 +77,11 @@ Set
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Settings and data location: Installation folder
   + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on check for updates on startup.
 
-### Honey View [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Honey View
 
 Simple UI.
 
-URL: http://www.bandisoft.com/honeyview/
+URL: http://www.bandisoft.com/honeyview/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -99,11 +99,11 @@ Set
   + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on do not display tooltips on mouseover.
   + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on Use small font for EXIF/file info.
 
-### Team Viewer [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Team Viewer
 
 Provide remote control services.
 
-URL: https://www.teamviewer.cn/cn/download/windows/
+URL: https://www.teamviewer.cn/cn/download/windows/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -112,11 +112,11 @@ Set
   + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on show advanced settings.
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Base\TeamViewer
 
-### CCleaner [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### CCleaner
 
 Clean up system cache and make it better.
 
-URL: https://www.ccleaner.com/ccleaner/download/professional
+URL: https://www.ccleaner.com/ccleaner/download/professional [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -125,11 +125,11 @@ Set
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Base\CClearner
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Choose users: Install just for me
 
-### Dism [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Dism
 
 Free to set up your system.
 
-URL: https://www.chuyu.me/zh-Hans/index.html
+URL: https://www.chuyu.me/zh-Hans/index.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -161,11 +161,11 @@ Set
 
     ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Windows%20update.png)
 
-### StartIsBack++ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### StartIsBack++
 
 Set start to transparent.
 
-URL: https://zhutix.com/tag/10t/
+URL: https://zhutix.com/tag/10t/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -173,11 +173,11 @@ Set
   + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on use custom start menu coloring.
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Set color: Clear
 
-### PotPlayer [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### PotPlayer
 
 The most comprehensive player.
 
-URL: https://potplayer.daum.net/
+URL: https://potplayer.daum.net/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -195,9 +195,9 @@ Set
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Method: Direct3D11 Mode
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)ransparency: 85%
 
-### Spotify [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Spotify
 
-URL: https://www.spotify.com/hk-en/
+URL: https://www.spotify.com/hk-en/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -212,11 +212,11 @@ Set
 + Startup and windows behaviour
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Open Spotify automatically after you log into the computer: No
 
-### HuoChat [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### HuoChat
 
 Open various services quickly.
 
-URL:https://www.huochaipro.com/
+URL:https://www.huochaipro.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -266,22 +266,22 @@ Set
 
 ## Net
 
-### v2rayN Core [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### v2rayN Core
 
 VPN.
 
-URL: https://qw.asas.pw/
+URL: https://qw.asas.pw/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 + Install
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Net\V2rayN-Core
 
-### Baidu Netdisk [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Baidu Netdisk
 
 The most used netdisk in the China.
 
-URL: https://pan.baidu.com/download
+URL: https://pan.baidu.com/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -298,11 +298,11 @@ Set
 + Remind
   + ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Turn off sync pictures.
 
-### Internet Download Manager [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Internet Download Manager
 
 Multi-Thread Download.
 
-URL: https://www.internetdownloadmanager.com/download.html
+URL: https://www.internetdownloadmanager.com/download.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -316,22 +316,22 @@ Set
 
 ## Design
 
-### XMind [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### XMind
 
 Efficiently design mind maps.
 
-URL: https://www.xmind.cn/zen/
+URL: https://www.xmind.cn/zen/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 + Preferences
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Appearance: Dark
 
-### Snipaste [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue) 
+### Snipaste
 
 A simple screenshot software,Can pin pictures on the desktop.
 
-URL: https://www.snipaste.com/
+URL: https://www.snipaste.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue) 
 
 Set
 
@@ -346,65 +346,65 @@ Set
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Set switch to another image group: Ctrl + Alt + X
   + ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Turn off other shortcut keys.
 
-### Open Broadcaster Software [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Open Broadcaster Software
 
 Recording and live.
 
-URL: https://obsproject.com/download
+URL: https://obsproject.com/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 + Install
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Design\Obs-studio
 
-### Maya [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Maya
 
-URL: http://www.gfxcamp.com/
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 + Install
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Design\Maya
 
-### Zbrush [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Zbrush
 
-URL: http://www.gfxcamp.com/
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 + Install
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Design\Zbrush
 
-### 3DMAX [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### 3DMAX
 
-URL: http://www.gfxcamp.com/
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 + Install
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Design\3DMAX
 
-### Houdini [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Houdini
 
-URL: http://www.gfxcamp.com/
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 - Install
   - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Design\Houdini
 
-### Resolve [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Resolve
 
-URL: http://www.gfxcamp.com/
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 - Install
   - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Design\Resolve
 
-### Substance [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Substance
 
-URL: http://www.gfxcamp.com/
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -414,11 +414,11 @@ Set
 
 ## Chat
 
-### QQ TIM [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### QQ TIM
 
 Simplified QQ will not make people feel too cumbersome.
 
-URL: https://tim.qq.com/download.html
+URL: https://tim.qq.com/download.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -433,9 +433,9 @@ Set
 - Video chat
   - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Pictures folder: D:\Library\Pictures\QQ Pictures
 
-### WeChat [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### WeChat
 
-URL: https://pc.weixin.qq.com/
+URL: https://pc.weixin.qq.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -448,9 +448,9 @@ Set
 - shortcuts
   - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Turn off shortcuts  keys.
 
-### AliWangWang [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### AliWangWang
 
-URL: https://alimarket.taobao.com/markets/qnww/portal-group/ww/download
+URL: https://alimarket.taobao.com/markets/qnww/portal-group/ww/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -463,20 +463,20 @@ Set
 
 ## Program
 
-### Typora [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Typora
 
 Markdown tool.
 
-URL: https://www.typora.io/#windows
+URL: https://www.typora.io/#windows [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
 + Install
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Program\Typora
 
-### Visual Studio Professional [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Visual Studio Professional
 
-URL: https://visualstudio.microsoft.com/zh-hans/?rr=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26wd%3Dvs
+URL: https://visualstudio.microsoft.com/zh-hans/?rr=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26wd%3Dvs [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -490,9 +490,9 @@ Set
 
 ## Game
 
-### Steam [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Steam
 
-URL: https://store.steampowered.com/about/
+URL: https://store.steampowered.com/about/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -514,9 +514,9 @@ Set
     + Settings
       + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)When should groupy combine windows: Only group when ctrl is held down
 
-### Epic Games [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+### Epic Games
 
-URL: https://www.epicgames.com/store/zh-CN/
+URL: https://www.epicgames.com/store/zh-CN/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -536,7 +536,9 @@ Set
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Unreal engine folder: D:\Design\UE4
   + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on editor sysbols for debugging.
 
-#### Unreal Engine [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+#### Unreal Engine
+
+ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
 
   + Blueprint node jump
 

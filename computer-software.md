@@ -136,33 +136,30 @@ Set
 + System Optimizer
 
   + Taskbar settings
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Taskbar%20settings.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Taskbar%20settings.png)
 
   + Security settings
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Security%20settings.png)
-
-  + Start & Windows experience
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Start%20%26%20Windows%20experience.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Security%20settings.png)
 
   + Start & Windows experience
     ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Start%20%26%20Windows%20experience.png)
 
   + Explorer
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Explorer1.png)
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Explorer2.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Explorer1.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Explorer2.png)
 
   + Desktop icon management
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Desktop%20icon%20management.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Desktop%20icon%20management.png)
 
   + Icon management in navigation pane of Windows Explorer
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Icon%20management%20in%20navigation%20pane%20of%20Windows%20Explorer.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Icon%20management%20in%20navigation%20pane%20of%20Windows%20Explorer.png)
 
   + Microsoft pinyin IME
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Microsoft%20pinyin%20IME.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Microsoft%20pinyin%20IME.png)
 
   + Windows update
 
-    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Windows%20update.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Windows%20update.png)
 
 ### StartIsBack++
 

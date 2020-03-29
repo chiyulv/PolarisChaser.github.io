@@ -3,14 +3,15 @@
 ## catalogue
 
 - [Computer-software](#computer-software)
+  * [catalogue](#catalogue)
   * [Base](#base)
     + [Bandizip](#bandizip)
     + [Everything](#everything)
     + [Honey View](#honey-view)
     + [Team Viewer](#team-viewer)
     + [CCleaner](#ccleaner)
-    + [Dism++](#dism--)
-    + [StartIsBack++](#startisback--)
+    + [Dism](#dism)
+    + [StartIsBack](#startisback)
     + [PotPlayer](#potplayer)
     + [Spotify](#spotify)
     + [HuoChat](#huochat)
@@ -27,7 +28,7 @@
     + [3DMAX](#3dmax)
     + [Houdini](#houdini)
     + [Resolve](#resolve)
-    + [Substance Painter/Substance Designer](#substance-painter-substance-designer)
+    + [Substance Painter/Substance Designer](#Substance Painter & Substance Designer)
   * [Chat](#chat)
     + [QQ TIM](#qq-tim)
     + [WeChat](#wechat)
@@ -83,6 +84,7 @@ Simple UI.
 URL: http://www.bandisoft.com/honeyview/
 
 Set
+
 + Install
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Base\Honey view
 + Settings
@@ -123,13 +125,44 @@ Set
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Base\CClearner
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Choose users: Install just for me
 
-### Dism++
+### Dism
 
 Free to set up your system.
 
 URL: https://www.chuyu.me/zh-Hans/index.html
 
 Set
+
++ System Optimizer
+
+  + Taskbar settings
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Taskbar%20settings.png)
+
+  + Security settings
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Security%20settings.png)
+
+  + Start & Windows experience
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Start%20%26%20Windows%20experience.png)
+
+  + Start & Windows experience
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Start%20%26%20Windows%20experience.png)
+
+  + Explorer
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Explorer1.png)
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Explorer2.png)
+
+  + Desktop icon management
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Desktop%20icon%20management.png)
+
+  + Icon management in navigation pane of Windows Explorer
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Icon%20management%20in%20navigation%20pane%20of%20Windows%20Explorer.png)
+
+  + Microsoft pinyin IME
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Microsoft%20pinyin%20IME.png)
+
+  + Windows update
+
+    ![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Library/computer-software/Windows%20update.png)
 
 ### StartIsBack++
 
@@ -166,6 +199,7 @@ Set
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)ransparency: 85%
 
 ### Spotify
+
 URL: https://www.spotify.com/hk-en/
 
 Set
@@ -371,7 +405,7 @@ Set
 - Install
   - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Design\Resolve
 
-### Substance Painter/Substance Designer
+### Substance Painter & Substance Designer
 
 URL: http://www.gfxcamp.com/
 
@@ -513,22 +547,19 @@ Set
 
     + Input 
 
+      ```powershell
+       cmd
+      ```
+
        ```powershell
-        cmd
+       D:
        ```
 
-        ```powershell
-        D:
-        ```
+       ```powershell
+       cd D:\build\++ue4\sync
+       ```
 
-        ```powershell
-        cd D:\build\++ue4\sync
-        ```
-
-        ```powershell
-        mklink /D Engine "D:\Design\UE4\UE_4.24\Engine"
-        ```
-
-
-
-
+       ```powershell
+       mklink /D Engine "D:\Design\UE4\UE_4.24\Engine"
+       ```
+       

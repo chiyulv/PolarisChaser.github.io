@@ -28,7 +28,7 @@
     + [3DMAX](#3dmax)
     + [Houdini](#houdini)
     + [Resolve](#resolve)
-    + [Substance Painter/Substance Designer](#Substance Painter & Substance Designer)
+    + [Substance](#Substance)
   * [Chat](#chat)
     + [QQ TIM](#qq-tim)
     + [WeChat](#wechat)
@@ -405,7 +405,7 @@ Set
 - Install
   - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Destination folder: D:\Design\Resolve
 
-### Substance Painter & Substance Designer
+### Substance
 
 URL: http://www.gfxcamp.com/
 

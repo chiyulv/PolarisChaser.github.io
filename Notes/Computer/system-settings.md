@@ -25,7 +25,7 @@
 
 ### Install Driver
 
-(https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 The driver is the bridge between the hardware and the system. My computer model is **Z7-KP7GT.**
 

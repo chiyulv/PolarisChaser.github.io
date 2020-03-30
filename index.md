@@ -1,7 +1,9 @@
 ## Welcome 
-Here are PolarisChaser's Personal Notes
+Here are PolarisChaser's Notes
 
 I shared some my notes, which contain many aspects, and I hope they can be helpful to you
+
+If you want to reprint please indicate the source and author
 
 ### About Computer
 

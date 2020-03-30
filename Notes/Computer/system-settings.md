@@ -41,6 +41,8 @@ God of War Driver URL: http://www.hasee.com/Chinese/drivers/drivers/index.php/Do
 
 ### About App
 
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
+
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click settings & click apps.
 
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Uninstall
@@ -139,6 +141,8 @@ God of War Driver URL: http://www.hasee.com/Chinese/drivers/drivers/index.php/Do
   + Microsoft to do 
 
 ### Edge
+
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 Google kernel Edge browser.
 
@@ -597,7 +601,11 @@ Set
     
 ## About System
 
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
+
 ### Library
+
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Move all library to: D:\Library
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Unlink this PC in OneDrive.
@@ -605,11 +613,15 @@ Set
 
 ### Optimize Drives
 
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
+
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Right click operating system & click properties.
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click tools & click optimize.
 + ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Turn off optimize drives.
 
 ### Virtual Memory
+
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Right click this PC & click properties.
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click remote settings & click advanced/performance/settings.
@@ -621,6 +633,8 @@ Set
 |     Library      |  System managed  |
 
 ### Power Options
+
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Run Windows PowerShell as administrator.
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Input 
@@ -647,16 +661,22 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 ### Clipboard
 
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
+
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click settings & click system.
 + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on clipboard history.
 + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on Sync across devices.
 
 ### Sticky Keys
 
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
+
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click settings & click system.
 + ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Turn off allow the shortcut key to start sticky keys.
 
 ### Mouse
+
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click settings & click devices.
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click Mouse.
@@ -666,16 +686,22 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 ### Sync My Phone
 
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
+
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click settings & click phone.
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click add a phone.
 
 ### Startup
+
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Ctrl + Shift + Esc
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Click startu.
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Disable Unnecessary app.
 
 ### Peronalize
+
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 + Start
   + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Turn on show more tiles on start.
@@ -686,6 +712,8 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
   + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Taskbar location on screen: Top
 
 ### Startup
+
+[![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/System%20Settings/Go%20to%20catalogue.png)](#catalogue)
 
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Create a txt.
 + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)Input

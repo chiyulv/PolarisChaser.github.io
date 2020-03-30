@@ -47,7 +47,7 @@
 
 Bandizip is a very efficient decompression software without ads.
 
-URL: http://www.bandisoft.com/bandizip/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: http://www.bandisoft.com/bandizip/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -68,7 +68,7 @@ Set
 
 Everything can find files quickly.
 
-URL: https://www.voidtools.com/zh-cn/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.voidtools.com/zh-cn/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -81,7 +81,7 @@ Set
 
 Simple UI.
 
-URL: http://www.bandisoft.com/honeyview/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: http://www.bandisoft.com/honeyview/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -103,7 +103,7 @@ Set
 
 Provide remote control services.
 
-URL: https://www.teamviewer.cn/cn/download/windows/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.teamviewer.cn/cn/download/windows/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -116,7 +116,7 @@ Set
 
 Clean up system cache and make it better.
 
-URL: https://www.ccleaner.com/ccleaner/download/professional [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.ccleaner.com/ccleaner/download/professional [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 

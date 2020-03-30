@@ -1,6 +1,7 @@
-## Welcome to PolarisChaser's Personal Notes
+## Welcome 
+Here are PolarisChaser's Personal Notes
 
-Here are my personal notes, which contain many aspects, and I hope they can be helpful to you
+I shared some my notes, which contain many aspects, and I hope they can be helpful to you
 
 ### About Computer
 

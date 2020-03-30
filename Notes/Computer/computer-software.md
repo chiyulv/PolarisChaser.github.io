@@ -129,7 +129,7 @@ Set
 
 Free to set up your system.
 
-URL: https://www.chuyu.me/zh-Hans/index.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.chuyu.me/zh-Hans/index.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -165,7 +165,7 @@ Set
 
 Set start to transparent.
 
-URL: https://zhutix.com/tag/10t/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://zhutix.com/tag/10t/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -177,7 +177,7 @@ Set
 
 The most comprehensive player.
 
-URL: https://potplayer.daum.net/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://potplayer.daum.net/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -197,7 +197,7 @@ Set
 
 ### Spotify
 
-URL: https://www.spotify.com/hk-en/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.spotify.com/hk-en/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -216,7 +216,7 @@ Set
 
 Open various services quickly.
 
-URL:https://www.huochaipro.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL:https://www.huochaipro.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -270,7 +270,7 @@ Set
 
 VPN.
 
-URL: https://qw.asas.pw/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://qw.asas.pw/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -281,7 +281,7 @@ Set
 
 The most used netdisk in the China.
 
-URL: https://pan.baidu.com/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://pan.baidu.com/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -302,7 +302,7 @@ Set
 
 Multi-Thread Download.
 
-URL: https://www.internetdownloadmanager.com/download.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.internetdownloadmanager.com/download.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -320,7 +320,7 @@ Set
 
 Efficiently design mind maps.
 
-URL: https://www.xmind.cn/zen/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.xmind.cn/zen/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -331,7 +331,7 @@ Set
 
 A simple screenshot software,Can pin pictures on the desktop.
 
-URL: https://www.snipaste.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue) 
+URL: https://www.snipaste.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue) 
 
 Set
 
@@ -350,7 +350,7 @@ Set
 
 Recording and live.
 
-URL: https://obsproject.com/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://obsproject.com/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -359,7 +359,7 @@ Set
 
 ### Maya
 
-URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -368,7 +368,7 @@ Set
 
 ### Zbrush
 
-URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -377,7 +377,7 @@ Set
 
 ### 3DMAX
 
-URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -386,7 +386,7 @@ Set
 
 ### Houdini
 
-URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -395,7 +395,7 @@ Set
 
 ### Resolve
 
-URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -404,7 +404,7 @@ Set
 
 ### Substance
 
-URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: http://www.gfxcamp.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -418,7 +418,7 @@ Set
 
 Simplified QQ will not make people feel too cumbersome.
 
-URL: https://tim.qq.com/download.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://tim.qq.com/download.html [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -435,7 +435,7 @@ Set
 
 ### WeChat
 
-URL: https://pc.weixin.qq.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://pc.weixin.qq.com/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -450,7 +450,7 @@ Set
 
 ### AliWangWang
 
-URL: https://alimarket.taobao.com/markets/qnww/portal-group/ww/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://alimarket.taobao.com/markets/qnww/portal-group/ww/download [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -467,7 +467,7 @@ Set
 
 Markdown tool.
 
-URL: https://www.typora.io/#windows [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.typora.io/#windows [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -476,7 +476,7 @@ Set
 
 ### Visual Studio Professional
 
-URL: https://visualstudio.microsoft.com/zh-hans/?rr=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26wd%3Dvs [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://visualstudio.microsoft.com/zh-hans/?rr=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26wd%3Dvs [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -492,7 +492,7 @@ Set
 
 ### Steam
 
-URL: https://store.steampowered.com/about/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://store.steampowered.com/about/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -516,7 +516,7 @@ Set
 
 ### Epic Games
 
-URL: https://www.epicgames.com/store/zh-CN/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+URL: https://www.epicgames.com/store/zh-CN/ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
 Set
 
@@ -538,7 +538,7 @@ Set
 
 #### Unreal Engine
 
- [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer-Software/Go%20to%20catalogue.png)](#catalogue)
+ [![hadoop](https://github.com/PolarisChaser/PolarisChaser.github.io/blob/master/Image%20labrary/Notes/Computer/Computer%20Software/Go%20to%20catalogue.png)](#catalogue)
 
   + Blueprint node jump
 

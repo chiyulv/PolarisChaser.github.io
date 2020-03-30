@@ -3,7 +3,7 @@ Here are PolarisChaser's Notes
 
 I shared some my notes, which contain many aspects, and I hope they can be helpful to you
 
-If you want to reprint please indicate the source and author
+If you want to repost please indicate the source and author
 
 ### About Computer
 
